@@ -6,7 +6,7 @@ This is my public CDN repo for just uploading my stuff. You can upload literally
 - **Now get the link!** You can use the raw code straight off of GitHub for code, or if it's an image, add the filepath after **cwh.bensyxx.dev**. It will look something like this:
 
 ```
-https://cwh.bensyxx.dev/c/images/octocat/cutedolphin.png
+https://cwh.bensyxx.dev/c/images/octocat/cutedolphin.jpeg
 ```
 
 > You can use cwh.bensyxx.dev/c/ for raw code too! Just remember if you take raw code from GitHub, add ?raw=true to the link.

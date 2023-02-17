@@ -1,5 +1,7 @@
 This is my public CDN repo for just uploading my stuff. You can upload literally anything GitHub supports, here's how:
 
+[Read the rules](https://github.com/bensyxx/cdn/RULES.md) before uploading!
+
 - **Add a seperate branch** and upload your file in the folder matching it, or if any of them don't match with whatever you are uploading, just create a new folder.
 - **Find your folder**. This is your GitHub username, it's required or it get's deleted.
 - **Upload your file**. Simple as that. Save it in your folder.
